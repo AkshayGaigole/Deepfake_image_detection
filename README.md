@@ -4,6 +4,8 @@ this project is made in intention to detect the deepfake images.
 
 dataset:-
 link:-https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images/data.
+
+
 Dataset consists of two folders real and fake.
 
 just use training data set which is 117MB
